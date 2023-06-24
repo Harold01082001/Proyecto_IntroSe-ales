@@ -1,10 +1,12 @@
-# *Regresión de Datos*
+# *Desarrollo de un modelo Machine Learning*
  ----------------------------------------------------------------------------------------
-<img src="https://github.com/Harold01082001/Proyecto_IntroSe-ales/assets/43499263/f66d9252-be76-4771-92e0-050110d61c59" alt="Snow" style="width:60%">
+<img src="https://github.com/Harold01082001/Proyecto_IntroSe-ales/assets/43499263/362389f6-4b54-4e0c-a5db-984fa23f45dd" alt="Snow" style="width:60%">
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Objetivo
-### Tomando en cuenta la base da datos brindada, analizar la combinación de variables para hallar el valor de error. 
+## Objetivos
+● Conocer los aspectos básicos del TinyML con el Arduino 33 BLE Sense.
+● Explorar la plataforma Edge Impulse.
+● Conectar el Arduino nano 33 BLE Sense con Arduino y explorar ejemplos de TinyML.
 
 ---------------------------------------------------------------------------------------------------------------
 ## Dataset
