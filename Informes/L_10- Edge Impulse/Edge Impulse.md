@@ -22,6 +22,12 @@ Las imagenes que se suministraron al modelo para realizar el machine learning fu
  
  ---------------------------------------------------------------------------------------------------------------
 
+ ## MODELO DE MACHINE LEARNING:
+
+ Enlace al modelo: https://studio.edgeimpulse.com/public/242671/latest
+
+  ---------------------------------------------------------------------------------------------------------------
+
 ## Precisión
  <img width="500" height="600" src="https://github.com/Harold01082001/Proyecto_IntroSe-ales/assets/43499263/97fd0aad-a618-4c75-9eb9-0f9c71b5622e">
  
