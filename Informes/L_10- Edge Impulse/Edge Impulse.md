@@ -4,9 +4,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Objetivos
-● Conocer los aspectos básicos del TinyML con el Arduino 33 BLE Sense.
-● Explorar la plataforma Edge Impulse.
-● Conectar el Arduino nano 33 BLE Sense con Arduino y explorar ejemplos de TinyML.
+* ● Conocer los aspectos básicos del TinyML con el Arduino 33 BLE Sense.
+* ● Explorar la plataforma Edge Impulse.
+* ● Conectar el Arduino nano 33 BLE Sense con Arduino y explorar ejemplos de TinyML.
 
 ---------------------------------------------------------------------------------------------------------------
 ## Dataset
